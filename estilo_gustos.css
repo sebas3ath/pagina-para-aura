@@ -1,0 +1,40 @@
+body{
+   
+    background-image: url("imagenes/fondo\ 3.png");
+    background-repeat:round;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    border-left: 10%;
+    border-right: 10%;
+}
+
+
+a{
+       
+    color: white;
+    position: fixed; 
+    bottom: 20px; right: 20px; 
+    background: crimson;
+    padding: 10px 15px; 
+    border-radius: 800%; 
+    text-decoration: none; 
+    font-size: 20px;
+}
+
+table {
+    color: blue;
+    padding: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #00cc66;
+    background-color: #f7f7f7;
+}
+
+td {
+    border: 1px solid #00cc66;
+    border-radius: 3px;
+    background-color: #f7f7f7;
+    padding: 10px;
+    margin-bottom: 3px;
+    text-align: center;
+}

@@ -1,0 +1,29 @@
+body{
+    background-image: url("imagenes/fondo\ de\ video.png");
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    border-left: 20%;
+    border-right: 20%;
+    margin: 2%;
+
+}
+
+h1{
+
+    font-size: 55px;
+    text-align: center;            
+    font-family: Arial, Helvetica, sans-serif;
+    align-content: center;
+
+}
+
+a{
+    color: white;
+    position: fixed; 
+    bottom: 20px; right: 20px; 
+    background: #007BFF;
+    padding: 10px 15px; 
+    border-radius: 800%; 
+    text-decoration: none; 
+    font-size: 20px;
+}

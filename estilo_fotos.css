@@ -1,0 +1,20 @@
+
+body{
+    background-image: url("imagenes/flowers.png");
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    border-left: 20%;
+    border-right: 20%;
+    
+}
+
+a{
+    color: white;
+    position: fixed; 
+    bottom: 20px; right: 20px; 
+    background: #007BFF;
+    padding: 10px 15px; 
+    border-radius: 800%; 
+    text-decoration: none; 
+    font-size: 20px;
+}

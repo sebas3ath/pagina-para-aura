@@ -1,0 +1,28 @@
+body{
+   
+    background-image: url("imagenes/imagen\ principal.jpg");
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    border-left: 20%;
+    border-right: 20%;}
+
+a{
+    color: red;
+}
+
+table {
+    padding: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #00cc66;
+    background-color: #f7f7f7;
+}
+
+td {
+    border: 1px solid #00cc66;
+    border-radius: 3px;
+    background-color: #f7f7f7;
+    padding: 10px;
+    margin-bottom: 3px;
+    text-align: center;
+}
